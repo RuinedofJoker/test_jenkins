@@ -55,7 +55,7 @@
                 <version>${spring-boot.version}</version>
                 <configuration>
                     <mainClass>org.joker.test_jenkins.TestJenkinsApplication</mainClass>
-                    <skip>true</skip>
+<!--                    <skip>true</skip>-->
                 </configuration>
                 <executions>
                     <execution>
